@@ -15,15 +15,15 @@
      
 </div>
 
-- 👩🏻‍💻 
+- 👩🏻‍💻 I’m currently learning Python and Swift
 
-- ✍️ You can find articles that I have written at: [diiiiana99](https://dev.to/diiiiana99)
+- 🖊️ You can find articles that I have written at: [diiiiana99](https://dev.to/diiiiana99)
 
-- 💼 You can look at my recent work at: [www.diannaganova.us](http://www.diannaganova.us)
+- 📱You can look at my recent work at: [www.diannaganova.us](http://www.diannaganova.us)
 
 - 🛠 My last project was: [**Fenty Beauty**](https://github.com/diiiiana99/fenty-beauty-project-react), an e-commerce website inspired by Rihanna's brand with modern features.
 
-- 💬 Ask me about **JavaScript, React.js, Ruby, Rails, SQL**
+- 🤝Ask me about **JavaScript, React.js, Ruby, Rails, SQL**
 
 - ☀️ More: **When I'm not coding, I'm either playing tennis as I am ex pro 🎾 , doing cardio or intervals 🏃🏼‍♀️, or modeling for small companies.**
 
