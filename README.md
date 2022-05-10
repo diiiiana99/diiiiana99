@@ -15,7 +15,7 @@
      
 </div>
 
-- 🚀 I’m currently learning **TypeScript, Python, Swift**
+- Woman Technologist on Google Android 12L I’m currently learning **TypeScript, Python, Swift**
 
 - ✍️ You can find articles that I have written at: [diiiiana99](https://dev.to/diiiiana99)
 
